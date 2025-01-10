@@ -1,0 +1,6 @@
+FlightInstrument cu codul SFT001, are mentenanta: true, cu pretul: 400.0, Soft de versiune: 5
+FlightInstrument cu codul SFT002, are mentenanta: false, cu pretul: 100.0, Soft de versiune: 12
+FlightInstrument cu codul HARD001, are mentenanta: true, cu pretul: 100.0, Instrument de masurare pentru: altitudine
+FlightInstrument cu codul HARD002, are mentenanta: false, cu pretul: 500.0, Instrument de masurare pentru: stare_motor
+FlightInstrument cu codul HARD003, are mentenanta: true, cu pretul: 100.0, Instrument de masurare pentru: directia
+FlightInstrument cu codul HARD004, are mentenanta: false, cu pretul: 50.0, Instrument de masurare pentru: altitudine

@@ -1,0 +1,2 @@
+HARD007, true, altitudine
+SOFT984327, false, 17
